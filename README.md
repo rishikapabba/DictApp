@@ -24,11 +24,10 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [X] **Bonus Feature:** The words that have already been searched can be searched up offline as well.
+* [X] **Bonus Feature:** The App displays Examples, Parts of Speech, Antonyms as well.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/30608100/29052693-ae033ec0-7c26-11e7-9789-d3059d90596d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
